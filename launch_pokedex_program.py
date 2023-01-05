@@ -6,7 +6,7 @@ import threading
 from random import choice
 
 #User-defined Modules
-from datamodules import*
+from modules import*
 
 #Audio Modules
 from pygame import mixer
@@ -24,7 +24,7 @@ from PyQt6.QtCore import pyqtSignal, QTimer, QUrl
 path= os.path.dirname(__file__)
 start = str(path)
 start = start.replace("\\", "/")
-directory = "/datamodules/assets/"
+directory = "/modules/assets/"
 
 #Audio Variable
 sound_cut = False
