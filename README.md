@@ -1,9 +1,23 @@
 ![upl](https://user-images.githubusercontent.com/82133365/211179823-4cc45781-a49c-4dfa-8868-784662c04a66.png)
 
-Python 3.7
 
-Requirements:
-playsound==1.2.2
-pygame==2.1.2
-PyQt6==6.4.0
-requests==2.28.1
+## Contents
+* [Description](#description)
+* [Requirements](#requirements)
+* [Setup](#setup)
+
+## Description:
+<br>
+Unofficial Pokédex is a Pokédex app that is coded in Python with a GUI powered by PyQt. It uses <a href="https://pokeapi.co">PokeApi</a> to retrieve all of the desired information about a specific Pokémon.
+
+
+## Requirements:
+python 3.0+
+<br>
+playsound v1.2.2
+<br>
+pygame v2.1.2
+<br>
+PyQt6
+<br>
+requests v2.28.1
