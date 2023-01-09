@@ -381,6 +381,7 @@ class MainWindow(QWidget):
         global sound_cut 
         if sound_cut:
             mixer.music.set_volume(.5)
+            sound_module.mute_off()
             sound_cut = False
             self.mute_button.setStyleSheet("QPushButton"
                                "{"
@@ -392,6 +393,7 @@ class MainWindow(QWidget):
                                "}")  
         else:
             mixer.music.set_volume(0)
+            sound_module.mute_on()
             sound_cut = True
             self.mute_button.setStyleSheet("QPushButton"
                                "{"
