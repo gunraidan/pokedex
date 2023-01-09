@@ -33,6 +33,6 @@ Once you are finished filling out the entry screen click on the yellow play butt
 <br>
 <img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample2.gif" height="96">
 <br>
-Be sure to only use letters and numbers and no special characters. Also that the Pokémon's name is spelt correctly, otherwise the database won't be able to find the Pokémon:
+Be sure to only use letters and numbers and no special characters. Also be sure that the Pokémon's name is spelt correctly. Failure to adhere to these rules will result in the database not being able to find the Pokémon:
 <br>
 <img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample3.gif" height="210">
