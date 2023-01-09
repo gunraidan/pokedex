@@ -12,7 +12,7 @@ Unofficial Pokédex is a Pokédex app that is coded in Python with a GUI powered
 
 
 ## Requirements:
-python 3.0+
+python 3.6+
 <br>
 playsound v1.2.2
 <br>
