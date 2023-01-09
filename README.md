@@ -41,7 +41,7 @@ Be sure to only use letters and numbers and no special characters. Also be sure 
 ## Instructions:
 <img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokedexinfo.png" height="620">
 <br>
-1. Clicking the "Start Button" retrieves the data of the desired Pokémon and updates the entire screen.
+1. Clicking the "Start Button" retrieves the data of the desired Pokémon entered in the input screen and updates the entire screen.
 <br><br>
 2. The "Abilities Button" retrieves the ability name and explanation of the Pokémon and displays it on the bottom white screen. You can scroll back and forth through each abilitiy with the "Back" and "Next" buttons located to at the ends of the screen.
 <br>
@@ -56,3 +56,5 @@ Be sure to only use letters and numbers and no special characters. Also be sure 
 5. If a Pokémon's name appears here, it means that the "Evolves From Button" is active. Click on the Pokémon name to load and change the screen to information about the Pokémon listed.
 <br><br>
 6. The "Type Button" retrieves all of the strengths and weaknesses of the Pokémon's type. Similar to the Abilities and Attacks buttons, it is possible to scroll through the information with the next and back buttons on the screen the text is presented on. Each Pokémon has one or two types. So up to two Type buttons will be shown at a time.
+<br><br>
+7. If you don't want to hear the music, click the "Mute Button" to turn it off. If you would like the music back on, simply click the button again.
