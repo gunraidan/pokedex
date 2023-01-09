@@ -11,7 +11,7 @@
 Unofficial Pokédex is a Pokédex app that is coded in Python with a GUI powered by PyQt. It uses <a href="https://pokeapi.co">PokeApi</a> to retrieve all of the desired information about any specific Pokémon.
 <br>
 Below is how the program will look in action:
-![pokedexexample](https://raw.githubusercontent.com/nkocodes/media/main/unofficialpokedex/pokedexexample.gif?token=GHSAT0AAAAAAB46EXWAEBTVO3HAJU3HKVFYY53N6KA)
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokedexexample.gif" height="327">
 
 
 
