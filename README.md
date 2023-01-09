@@ -30,5 +30,5 @@ To use the program, type the Pokémon's name or national number on the green scr
 <img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample1.gif" height="80">
 <br>
 Once you are finished filling out the entry screen click on the yellow play button right beside it:
-<br>
-<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample2.gif" height="80">
+<br><br>
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample2.gif">
