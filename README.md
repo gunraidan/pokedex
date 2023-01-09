@@ -40,4 +40,4 @@ Be sure to only use letters and numbers and no special characters. Also be sure 
 
 ## Chart:
 <br>
-<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokedexinfo.png" height="520">
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokedexinfo.png" height="620">
