@@ -5,7 +5,7 @@
 * [Description](#description)
 * [Requirements](#requirements)
 * [Initializiation](#initializiation)
-* [Chart](#char)
+* [Chart](#chart)
 
 ## Description:
 Unofficial Pokédex is a Pokédex app that is coded in Python with a GUI powered by PyQt. It uses <a href="https://pokeapi.co">PokeApi</a> to retrieve all of the desired information about any specific Pokémon.
@@ -39,5 +39,12 @@ Be sure to only use letters and numbers and no special characters. Also be sure 
 <img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample3.gif" height="210">
 
 ## Chart:
-<br>
 <img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokedexinfo.png" height="620">
+<br>
+1. Clicking the "Start Button" retrieves the data of the desired Pokémon and updates the entire screen.
+<br>
+2. The "Abilities Button" retrieves the name and info of the Pokémon and displays it on the white screen below.
+<br>
+3. You can scroll back and forth through each abilitiy with the "Back" and "Next" buttons located to at the ends of the screen.
+<br>
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemonnextback.gif" height="96">
