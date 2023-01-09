@@ -25,5 +25,6 @@ PyQt6
 requests v2.28.1
 
 ## Usage:
-To use the program, type the Pokémon's name or national number by either method shown:
+To use the program, type the Pokémon's name or national number on the green screen by any method shown:
 <br>
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample1.gif" height="80">
