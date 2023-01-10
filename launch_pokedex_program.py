@@ -658,7 +658,7 @@ class MainWindow(QWidget):
     def extract(self):
         self.next_button.setHidden(True)
         self.back_button.setHidden(True)
-        self.pokemon = self.line.text().lower().lstrip('0')
+        self.pokemon = self.line.text().lower().lstrip('0').strip()
         self.first_site_request()
 
 #Main Thread                
