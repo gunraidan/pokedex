@@ -45,11 +45,11 @@ Be sure to only use letters and numbers and no special characters. Also be sure 
 <br><br>
 2. The "Abilities Button" retrieves the ability name and explanation of the Pokémon and displays it on the bottom white screen. You can scroll back and forth through each abilitiy with the "Back" and "Next" buttons located to at the ends of the screen.
 <br>
-<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemonnextback.gif" height="96"> 
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemonnextback.gif" height="100"> 
 <br>
 3. The "Attacks Button" retrieves the attack name and explanation of the Pokémon and displays it on the bottom white screen. Like the Abilities Button, you can scroll back and forth through each abilitiy with the "Back" and "Next" buttons located to at the ends of the screen.
 <br>
-<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemonnextback2.gif" height="98">
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemonnextback2.gif" height="102">
 <br>
 4. The home icon is the "Summary Button". It displays the summary of each Pokémon randomly selected from each game.
 <br><br>
