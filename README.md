@@ -45,7 +45,7 @@ Be sure to only use letters and numbers and no special characters. Also be sure 
 <br><br>
 2. The "Abilities Button" retrieves the ability name and explanation of the Pokémon and displays it on the bottom white screen. You can scroll back and forth through each abilitiy with the "Back" and "Next" buttons located to at the ends of the screen.
 <br>
-<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemonnextback.gif" height="100"> 
+<img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemonnextback.gif" height="102"> 
 <br>
 3. The "Attacks Button" retrieves the attack name and explanation of the Pokémon and displays it on the bottom white screen. Like the Abilities Button, you can scroll back and forth through each abilitiy with the "Back" and "Next" buttons located to at the ends of the screen.
 <br>
