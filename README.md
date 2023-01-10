@@ -4,7 +4,7 @@
 ## Contents
 * [Description](#description)
 * [Requirements](#requirements)
-* [Initializiation](#initializiation)
+* [Initialization](#initialization)
 * [Instructions](#instructions)
 
 ## Description:
@@ -25,7 +25,7 @@ PyQt6
 <br>
 requests v2.28.1
 
-## Initializiation:
+## Initialization:
 To use the program, type the Pokémon's name or national number on the green screen by any method shown:
 <br>
 <img src="https://github.com/nkocodes/media/blob/main/unofficialpokedex/pokemoninputexample1.gif" height="80">
