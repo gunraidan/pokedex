@@ -15,7 +15,7 @@ Below is how the program looks in action:
 <img src="https://raw.githubusercontent.com/nkocodes/media/main/unofficialpokedex/pokemonexample.gif" height="479">
 
 ## Requirements:
-python 3.8+
+python 3.1+
 <br>
 playsound v1.2.2
 <br>
