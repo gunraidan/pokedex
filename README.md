@@ -3,6 +3,7 @@
 
 ## Contents
 * [Description](#description)
+* [Installation](#installation)
 * [Requirements](#requirements)
 * [Initialization](#initialization)
 * [Instructions](#instructions)
@@ -13,6 +14,12 @@ Unofficial Pokédex is a Pokédex app that is coded in Python with a GUI powered
 Below is how the program looks in action:
 <br>
 <img src="https://raw.githubusercontent.com/nkocodes/media/main/unofficialpokedex/pokemonexample.gif" height="479">
+
+## Installation:
+```pip install unofficial-pokedex```
+
+The project can also be seen and installed in <a href="https://pypi.org/project/unofficial-pokedex/">PyPI</a>.
+
 
 ## Requirements:
 python 3.8+
